@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPrimerApi", "MiPrimerApi.csproj", "{5CF610E5-0BAA-4DE4-8DE7-99979FFA969D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF610E5-0BAA-4DE4-8DE7-99979FFA969D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF610E5-0BAA-4DE4-8DE7-99979FFA969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF610E5-0BAA-4DE4-8DE7-99979FFA969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF610E5-0BAA-4DE4-8DE7-99979FFA969D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76DE33BD-DE0D-4E71-9935-6AB455EC3243}
+	EndGlobalSection
+EndGlobal
